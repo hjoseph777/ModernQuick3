@@ -24,9 +24,9 @@ PORT=3000
 ```
 
 ### 🌐 Live Demo
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-View_Application-blue?style=for-the-badge)](http://localhost:3000)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-View_Application-blue?style=for-the-badge)](https://book-manager-app-04jb.onrender.com/)
 
-> **Note**: Demo link will be active when the application is running locally on port 3000
+> **Note**: Live demo hosted on Render - may take a moment to load on first visit (free tier)
 
 ### 3. Start the Application
 ```bash
